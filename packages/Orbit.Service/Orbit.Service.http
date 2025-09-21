@@ -1,0 +1,6 @@
+@Orbit.Service_HostAddress = http://localhost:5113
+
+GET {{Orbit.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
